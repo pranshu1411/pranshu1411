@@ -8,14 +8,12 @@ CS Student • Builder • Occasional Bug Creator
 class Pranshu {
 public:
     string education = "NSUT";
-    string role = "Student";
 
     vector<string> likes = {
         "Building random projects",
-        "Learning backend stuff",
+        "Building backend stuff",
         "LeetCode when I'm feeling productive",
-        "Late night coding sessions",
-        "Good memes"
+        "Late night gaming sessions"
     };
 
     vector<string> currently_into = {
@@ -25,8 +23,6 @@ public:
         "Kafka",
         "System Design"
     };
-
-    string life_motto = "If it works, don't touch it. If it breaks, act surprised.";
 };
 ```
 
@@ -40,7 +36,6 @@ public:
 ## Current Side Quests
 
 - 🚀 Building PulseQ
-- 🐘 Learning PostgreSQL properly
 - 📦 Exploring Docker and Microservices
 - ☕ Trying to write cleaner code than last week
 
@@ -63,7 +58,6 @@ public:
 - PulseQ
 - URL Shortener
 - Heart-CAD
-- PayMe
 
 ## GitHub Stats
 
@@ -72,6 +66,11 @@ public:
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu1411&layout=compact&hide_border=true" />
 </p>
 
-## Fun Fact
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pranshu1411&hide_border=true" />
+</p>
 
-I can spend 6 hours debugging a problem and then discover I forgot to restart the server.
+## Connect
+
+- LinkedIn: [LinkedIn](www.linkedin.com/in/pranshu-gupta-47150a30b)
+- Email: pranshu.141104@gmail.com
