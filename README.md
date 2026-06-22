@@ -1,24 +1,77 @@
-# Hi, I'm Pranshu
+<h1 align="center">Hey, I'm Pranshu 👋</h1>
 
-Computer Science student at NSUT.
+<p align="center">
+CS Student • Builder • Occasional Bug Creator
+</p>
 
-I enjoy building backend systems, exploring distributed architectures, and learning how large-scale applications are designed. Most of my recent work has involved Node.js, NestJS, PostgreSQL, Redis, and Docker.
+```cpp
+class Pranshu {
+public:
+    string education = "NSUT";
+    string role = "Student";
 
-### Tech
+    vector<string> likes = {
+        "Building random projects",
+        "Learning backend stuff",
+        "LeetCode when I'm feeling productive",
+        "Late night coding sessions",
+        "Good memes"
+    };
 
-C++ • JavaScript • TypeScript • React.js • Node.js • NestJS • PostgreSQL • MongoDB • Redis • Docker
+    vector<string> currently_into = {
+        "NestJS",
+        "PostgreSQL",
+        "Redis",
+        "Kafka",
+        "System Design"
+    };
 
-### Currently Learning
+    string life_motto = "If it works, don't touch it. If it breaks, act surprised.";
+};
+```
 
-NestJS, Kafka, Microservices, and Distributed Systems.
+## About Me
 
-### Featured Projects
+- Computer Science student at NSUT.
+- Mostly interested in backend development and building things that actually do something.
+- Currently learning how modern applications scale using Redis, queues, databases, and microservices.
+- I enjoy hackathons, side projects, and occasionally convincing myself that debugging is fun.
+
+## Current Side Quests
+
+- 🚀 Building PulseQ
+- 🐘 Learning PostgreSQL properly
+- 📦 Exploring Docker and Microservices
+- ☕ Trying to write cleaner code than last week
+
+## Tech Stack
+
+### Languages
+`C++` `JavaScript` `TypeScript` `SQL`
+
+### Backend
+`Node.js` `Express.js` `NestJS`
+
+### Databases
+`PostgreSQL` `MongoDB` `Redis`
+
+### Tools
+`Git` `Docker` `Prisma`
+
+## Some Things I've Built
 
 - PulseQ
 - URL Shortener
 - Heart-CAD
 - PayMe
 
-![Stats](https://github-readme-stats.vercel.app/api?username=pranshu1411&show_icons=true&hide_border=true)
+## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu1411&layout=compact&hide_border=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pranshu1411&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu1411&layout=compact&hide_border=true" />
+</p>
+
+## Fun Fact
+
+I can spend 6 hours debugging a problem and then discover I forgot to restart the server.
