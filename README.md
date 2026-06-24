@@ -56,8 +56,8 @@ public:
 ## Some Things I've Built
 
 - PulseQ
-- URL Shortener
-- Heart-CAD
+- TeleShell
+- Heart-CAD ANFIS System
 
 ## GitHub Stats
 
