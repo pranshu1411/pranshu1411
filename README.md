@@ -28,35 +28,35 @@
 
 ## About Me
 
-I'm an Information Technology undergraduate at NSUT, Delhi, interested in full-stack engineering, distributed systems, and applied AI.
+I'm an Information Technology undergraduate at NSUT, Delhi. I work across the full stack but have a soft spot for backend engineering.
 
-I build end-to-end applications but naturally gravitate towards the backend — designing architectures, optimizing performance, and figuring out how systems behave at scale.
+I enjoy designing systems, working with distributed architectures, optimizing performance, and exploring how applications scale. Lately, I've also been working with autonomous AI agents and explainable machine learning.
 
 - Former Backend Development Intern at Gleaming Media.
-- Undergraduate Researcher working on explainable AI and optimization algorithms.
-- Interested in distributed systems, system design, and autonomous AI agents.
+- Undergraduate Researcher at NSUT.
+- Interested in system design, distributed systems, and applied AI.
 - Solved 400+ DSA problems on LeetCode with a peak contest rating of 1595.
-- Adobe India Hackathon 2025 Finalist — Top 5% nationwide.
+- Adobe India Hackathon 2025 Finalist (Top 5% nationwide).
 - Captain of the NSUT Table Tennis Team.
 
-I enjoy building things from scratch, understanding what happens under the hood, and occasionally overengineering things that probably don't need it.
+Outside of coding, you'll probably find me playing table tennis, gaming, or overengineering a side project.
 
 ---
 
 ## Experience
 
-### Gleaming Media — Backend Development Intern
-`June 2026 – July 2026`
+### Backend Development Intern | Gleaming Media
+`June 2026 - July 2026`
 
 - Developed a dynamic template rendering engine for diagnostic report generation by merging structured patient and laboratory data into predefined templates.
-- Engineered a reliable email delivery pipeline with background processing, attachment generation, logging, and failure handling.
+- Built an email delivery pipeline with background processing, attachment generation, logging, and failure handling.
 
-### NSUT — Undergraduate Researcher
-`March 2026 – Present`
+### Undergraduate Researcher | NSUT
+`March 2026 - Present`
 
 - Developed QSDO-SC-ANFIS for explainable cardiovascular disease prediction.
-- Built a Python-MATLAB evaluation pipeline benchmarking machine learning models and metaheuristic optimization algorithms across three clinical datasets.
-- Exploring the intersection of optimization, machine learning, and model interpretability.
+- Built a Python-MATLAB evaluation pipeline to benchmark machine learning models and metaheuristic optimization algorithms across three clinical datasets.
+- Working on feature selection, hyperparameter optimization, and model interpretability.
 
 ---
 
@@ -66,7 +66,7 @@ I enjoy building things from scratch, understanding what happens under the hood,
 
 **Distributed Job Orchestration Platform**
 
-An event-driven platform for processing computationally intensive background workloads, including CSV ingestion, image manipulation, and batch email campaigns.
+An event-driven platform for handling heavy background workloads such as CSV ingestion, image processing, and batch email campaigns.
 
 - Peak throughput of **1,345 jobs/sec**.
 - Supports workloads containing **50,000+ records**.
@@ -81,12 +81,12 @@ An event-driven platform for processing computationally intensive background wor
 
 **Autonomous AI Coding Agent**
 
-A stateful AI agent that navigates, understands, debugs, and modifies codebases through a CLI and Telegram bot.
+A stateful AI coding agent that can navigate, understand, debug, and modify codebases through a CLI and Telegram bot.
 
 - AST-based code retrieval that reduces LLM context-token consumption by approximately **90%**.
 - Virtual filesystem overlay with human-in-the-loop approval for code modifications.
 - Autonomous repository navigation, code generation, debugging, and multi-file refactoring.
-- Background process orchestration, execution logs, and iterative self-correction.
+- Background process management, execution logs, and iterative self-correction.
 
 `TypeScript` `Bun` `OpenRouter` `ts-morph` `Telegram Bot API`
 
@@ -162,7 +162,7 @@ A research project combining metaheuristic optimization with adaptive neuro-fuzz
 
 | Achievement | Details |
 | :--- | :--- |
-| Adobe India Hackathon 2025 | Finalist — Top 5% nationwide |
+| Adobe India Hackathon 2025 | Finalist (Top 5% nationwide) |
 | HackVega 2025 | Finalist |
 | Competitive Programming | 400+ problems solved on LeetCode |
 | LeetCode Contest Rating | Peak rating of 1595 |
@@ -194,7 +194,7 @@ A research project combining metaheuristic optimization with adaptive neuro-fuzz
 
 <div align="center">
 
-<i>Building systems. Breaking assumptions. Occasionally breaking production.</i>
+<i>Usually building something, occasionally debugging it.</i>
 
 <br/><br/>
 
